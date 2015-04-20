@@ -80,6 +80,7 @@
 
 相信未来，相信梦想。个人铭言：努力了不一定能成功，但放弃注定是失败。
 
-##附件作品
+##在线作品/独立博客
 
-http://www.sqstui.com/index.php/my-works/
+https://github.com/544095700/demo
+http://www.sqstui.com
